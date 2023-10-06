@@ -18,3 +18,5 @@ bin
 # Directory for idea specific files
 .idea/
 .vscode/
+
+.env
